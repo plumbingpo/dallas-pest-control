@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dallaspestcontrolsquad.com/sitemap.xml
